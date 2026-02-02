@@ -1,0 +1,402 @@
+[
+  {
+    "id": "H001",
+    "address": "Chandmari St 11",
+    "lat": 26.186484,
+    "lng": 91.78128,
+    "defaultWasteType": "dry",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H002",
+    "address": "Maligaon St 74",
+    "lat": 26.14752,
+    "lng": 91.685824,
+    "defaultWasteType": "wet",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H003",
+    "address": "Chandmari St 55",
+    "lat": 26.183639,
+    "lng": 91.766671,
+    "defaultWasteType": "wet",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H004",
+    "address": "Chandmari St 20",
+    "lat": 26.179186,
+    "lng": 91.780567,
+    "defaultWasteType": "dry",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H005",
+    "address": "Maligaon St 36",
+    "lat": 26.15169,
+    "lng": 91.698701,
+    "defaultWasteType": "dry",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H006",
+    "address": "Maligaon St 96",
+    "lat": 26.154009,
+    "lng": 91.694982,
+    "defaultWasteType": "e-waste",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H007",
+    "address": "Six Mile St 63",
+    "lat": 26.128863,
+    "lng": 91.81032,
+    "defaultWasteType": "dry",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H008",
+    "address": "Chandmari St 96",
+    "lat": 26.186283,
+    "lng": 91.774933,
+    "defaultWasteType": "dry",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H009",
+    "address": "Six Mile St 5",
+    "lat": 26.136077,
+    "lng": 91.813598,
+    "defaultWasteType": "wet",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H010",
+    "address": "Dispur St 2",
+    "lat": 26.148383,
+    "lng": 91.780019,
+    "defaultWasteType": "wet",
+    "area": "Dispur"
+  },
+  {
+    "id": "H011",
+    "address": "Chandmari St 26",
+    "lat": 26.183866,
+    "lng": 91.774466,
+    "defaultWasteType": "wet",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H012",
+    "address": "Six Mile St 34",
+    "lat": 26.133807,
+    "lng": 91.808647,
+    "defaultWasteType": "wet",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H013",
+    "address": "Chandmari St 48",
+    "lat": 26.193033,
+    "lng": 91.779152,
+    "defaultWasteType": "wet",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H014",
+    "address": "Ganeshguri St 5",
+    "lat": 26.143596,
+    "lng": 91.773754,
+    "defaultWasteType": "e-waste",
+    "area": "Ganeshguri"
+  },
+  {
+    "id": "H015",
+    "address": "Maligaon St 16",
+    "lat": 26.146332,
+    "lng": 91.699705,
+    "defaultWasteType": "dry",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H016",
+    "address": "Ganeshguri St 53",
+    "lat": 26.143933,
+    "lng": 91.771653,
+    "defaultWasteType": "e-waste",
+    "area": "Ganeshguri"
+  },
+  {
+    "id": "H017",
+    "address": "Chandmari St 99",
+    "lat": 26.187176,
+    "lng": 91.771661,
+    "defaultWasteType": "wet",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H018",
+    "address": "Six Mile St 26",
+    "lat": 26.119841,
+    "lng": 91.805946,
+    "defaultWasteType": "e-waste",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H019",
+    "address": "Beltola St 56",
+    "lat": 26.116493,
+    "lng": 91.786518,
+    "defaultWasteType": "e-waste",
+    "area": "Beltola"
+  },
+  {
+    "id": "H020",
+    "address": "Dispur St 90",
+    "lat": 26.147471,
+    "lng": 91.785032,
+    "defaultWasteType": "dry",
+    "area": "Dispur"
+  },
+  {
+    "id": "H021",
+    "address": "Maligaon St 86",
+    "lat": 26.152299,
+    "lng": 91.680404,
+    "defaultWasteType": "wet",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H022",
+    "address": "Chandmari St 17",
+    "lat": 26.193711,
+    "lng": 91.768565,
+    "defaultWasteType": "wet",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H023",
+    "address": "Dispur St 79",
+    "lat": 26.148073,
+    "lng": 91.790563,
+    "defaultWasteType": "wet",
+    "area": "Dispur"
+  },
+  {
+    "id": "H024",
+    "address": "Six Mile St 41",
+    "lat": 26.129656,
+    "lng": 91.818974,
+    "defaultWasteType": "e-waste",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H025",
+    "address": "Six Mile St 5",
+    "lat": 26.1276,
+    "lng": 91.816589,
+    "defaultWasteType": "wet",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H026",
+    "address": "Maligaon St 1",
+    "lat": 26.158972,
+    "lng": 91.690057,
+    "defaultWasteType": "wet",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H027",
+    "address": "Ganeshguri St 3",
+    "lat": 26.139479,
+    "lng": 91.780868,
+    "defaultWasteType": "dry",
+    "area": "Ganeshguri"
+  },
+  {
+    "id": "H028",
+    "address": "Chandmari St 73",
+    "lat": 26.18201,
+    "lng": 91.776675,
+    "defaultWasteType": "dry",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H029",
+    "address": "Beltola St 52",
+    "lat": 26.11207,
+    "lng": 91.798261,
+    "defaultWasteType": "wet",
+    "area": "Beltola"
+  },
+  {
+    "id": "H030",
+    "address": "Chandmari St 89",
+    "lat": 26.193916,
+    "lng": 91.772852,
+    "defaultWasteType": "wet",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H031",
+    "address": "Six Mile St 73",
+    "lat": 26.118866,
+    "lng": 91.821006,
+    "defaultWasteType": "e-waste",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H032",
+    "address": "Ganeshguri St 80",
+    "lat": 26.154276,
+    "lng": 91.770441,
+    "defaultWasteType": "e-waste",
+    "area": "Ganeshguri"
+  },
+  {
+    "id": "H033",
+    "address": "Beltola St 44",
+    "lat": 26.122929,
+    "lng": 91.78164,
+    "defaultWasteType": "wet",
+    "area": "Beltola"
+  },
+  {
+    "id": "H034",
+    "address": "Maligaon St 40",
+    "lat": 26.163988,
+    "lng": 91.687468,
+    "defaultWasteType": "dry",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H035",
+    "address": "Beltola St 84",
+    "lat": 26.114433,
+    "lng": 91.784459,
+    "defaultWasteType": "e-waste",
+    "area": "Beltola"
+  },
+  {
+    "id": "H036",
+    "address": "Maligaon St 58",
+    "lat": 26.157547,
+    "lng": 91.695002,
+    "defaultWasteType": "dry",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H037",
+    "address": "Beltola St 48",
+    "lat": 26.114689,
+    "lng": 91.786863,
+    "defaultWasteType": "dry",
+    "area": "Beltola"
+  },
+  {
+    "id": "H038",
+    "address": "Maligaon St 16",
+    "lat": 26.164077,
+    "lng": 91.690756,
+    "defaultWasteType": "wet",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H039",
+    "address": "Dispur St 44",
+    "lat": 26.144281,
+    "lng": 91.793131,
+    "defaultWasteType": "e-waste",
+    "area": "Dispur"
+  },
+  {
+    "id": "H040",
+    "address": "Ganeshguri St 22",
+    "lat": 26.140282,
+    "lng": 91.778451,
+    "defaultWasteType": "dry",
+    "area": "Ganeshguri"
+  },
+  {
+    "id": "H041",
+    "address": "Ganeshguri St 27",
+    "lat": 26.14068,
+    "lng": 91.785832,
+    "defaultWasteType": "dry",
+    "area": "Ganeshguri"
+  },
+  {
+    "id": "H042",
+    "address": "Ganeshguri St 55",
+    "lat": 26.14691,
+    "lng": 91.781256,
+    "defaultWasteType": "e-waste",
+    "area": "Ganeshguri"
+  },
+  {
+    "id": "H043",
+    "address": "Six Mile St 11",
+    "lat": 26.119217,
+    "lng": 91.813738,
+    "defaultWasteType": "dry",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H044",
+    "address": "Ganeshguri St 73",
+    "lat": 26.142266,
+    "lng": 91.769162,
+    "defaultWasteType": "wet",
+    "area": "Ganeshguri"
+  },
+  {
+    "id": "H045",
+    "address": "Six Mile St 70",
+    "lat": 26.136145,
+    "lng": 91.809943,
+    "defaultWasteType": "dry",
+    "area": "Six Mile"
+  },
+  {
+    "id": "H046",
+    "address": "Maligaon St 99",
+    "lat": 26.148926,
+    "lng": 91.688101,
+    "defaultWasteType": "dry",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H047",
+    "address": "Chandmari St 76",
+    "lat": 26.183803,
+    "lng": 91.780175,
+    "defaultWasteType": "e-waste",
+    "area": "Chandmari"
+  },
+  {
+    "id": "H048",
+    "address": "Maligaon St 16",
+    "lat": 26.150787,
+    "lng": 91.682654,
+    "defaultWasteType": "wet",
+    "area": "Maligaon"
+  },
+  {
+    "id": "H049",
+    "address": "Dispur St 38",
+    "lat": 26.140845,
+    "lng": 91.799786,
+    "defaultWasteType": "e-waste",
+    "area": "Dispur"
+  },
+  {
+    "id": "H050",
+    "address": "Chandmari St 46",
+    "lat": 26.177709,
+    "lng": 91.771391,
+    "defaultWasteType": "e-waste",
+    "area": "Chandmari"
+  }
+]
